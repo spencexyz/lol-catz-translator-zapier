@@ -6,7 +6,7 @@ This is an open-source CLI app for Zapier that pings [SpeakLolCat](http://speakl
 
 To use this with the 1,000+ Zapier integrations you'll need to do a few things.
 
-- Set up a developer account [here](zapier.com/developer/)
+- Set up a developer account [here](https://zapier.com/developer/)
 - Clone this repo and `npm install`
 - Install the Zapier CLI globally ([instructions](https://zapier.com/developer/documentation/v2/getting-started-cli/))
 	- `npm install -g zapier-platform-cli`
